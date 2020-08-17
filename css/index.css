@@ -113,8 +113,8 @@ ul li a{
   }
 
 
-  /* Smartphone Menu */
-@media all and (max-width: 468px) {
+
+@media all and (min-width: 468px) {
     .menu {
         justify-content: center;
     }
