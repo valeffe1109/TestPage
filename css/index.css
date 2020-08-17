@@ -113,7 +113,7 @@ ul li a{
   }
 
   /* Tablet menu */
-@media all and (min-width: 468px) {
+@media all and (max-width: 468px) {
     .menu {
         justify-content: center;
     }
